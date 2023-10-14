@@ -17,4 +17,4 @@ I'm passionate about:
 
 
 ## Certfications 
-[![CBBH](/blob/main/logo.png)](https://academy.hackthebox.com/achievement/badge/f3bd0f29-5247-11ee-acfc-bea50ffe6cb4)
+[![CBBH](/logo.png)](https://academy.hackthebox.com/achievement/badge/f3bd0f29-5247-11ee-acfc-bea50ffe6cb4)
