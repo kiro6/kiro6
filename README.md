@@ -19,6 +19,19 @@ I'm passionate about:
 ## Certfications 
 [![CBBH](/images/CBBH.png)](https://academy.hackthebox.com/achievement/badge/f3bd0f29-5247-11ee-acfc-bea50ffe6cb4)
 
-## repositries 
-[pentration tetsing notes]()
-[pentration tetsing notes]()
+
+## Skills
+
+- linux
+- web security
+- Programming languages
+<p align="center">
+  <img src="URL_TO_IMAGE1" width="200" height="200">
+  <img src="URL_TO_IMAGE2" width="200" height="200">
+  <!-- Add more programming languages as needed -->
+</p>
+
+
+## Repositories 
+- [my pentration testing notes](https://github.com/kiro6/penetration-testing-notes)
+- [writeups for challenegs and CTFs i solve](https://github.com/kiro6/writeups)
