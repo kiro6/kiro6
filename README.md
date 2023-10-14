@@ -14,6 +14,7 @@ I'm passionate about:
 - Cryptography
 - Network Security
 - Operating Systems
+- Binary Exploitation
 
 
 ## Certfications 
@@ -22,8 +23,8 @@ I'm passionate about:
 
 ## Skills
 
-- linux
-- web security
+- Linux
+- Web Security and Attacks
 - Programming languages
 <p align="center">
   <img src="/images/Bash-Logo.png" width="100" height="100">
