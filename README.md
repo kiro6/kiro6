@@ -1,17 +1,10 @@
 ## About Me
 
-Hello there, I'm Kyrillos Maged Fakhery, a cybersecurity enthusiast, Bug Bounty Hunter, Web Penetration Tester, and CTF (Capture The Flag) player.
+Hello there, I'm Kyrillos Maged Fakhery, a CyberSecurity enthusiast, Bug Bounty Hunter, Web Penetration Tester, and CTF (Capture The Flag) player.
 
 ## Education
 
 - Currently CyberSecurity student at F.C.D.S, Alexandria University.
-
-## Education
-
-- **CyberSecurity Student**  
-  *F.C.D.S, Alexandria University*
-
-  Currently pursuing a degree in CyberSecurity at Alexandria University.
 
 ## Interests
 
