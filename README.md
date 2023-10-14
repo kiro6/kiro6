@@ -26,10 +26,11 @@ I'm passionate about:
 - web security
 - Programming languages
 <p align="center">
-  <img src="/images/Bash-Logo.png" width="200" height="200">
-  <img src="/images/Java-Logo.png" width="200" height="200">
-  <img src="/images/Java-Logo.png" width="200" height="200">
-  <!-- Add more programming languages as needed -->
+  <img src="/images/Bash-Logo.png" width="100" height="100">
+  <img src="/images/Java-Logo.png" width="100" height="100">
+  <img src="/images/Node.js_logo.png" width="100" height="100">
+  <img src="/images/python-logo.png" width="100" height="100">
+  <img src="/images/PHP-logo.png" width="100" height="100">
 </p>
 
 
