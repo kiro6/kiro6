@@ -26,8 +26,9 @@ I'm passionate about:
 - web security
 - Programming languages
 <p align="center">
-  <img src="URL_TO_IMAGE1" width="200" height="200">
-  <img src="URL_TO_IMAGE2" width="200" height="200">
+  <img src="/images/Bash-Logo.png" width="200" height="200">
+  <img src="/images/Java-Logo.png" width="200" height="200">
+  <img src="/images/Java-Logo.png" width="200" height="200">
   <!-- Add more programming languages as needed -->
 </p>
 
