@@ -17,5 +17,5 @@ I'm passionate about:
 
 
 ## Certfications 
-[<img src="https://github.com/kiro6/kiro6/assets/57776872/01a3f9ca-3dc9-4bc7-9014-e31ad8401606" alt="CBBH" width="200" height="250">](https://academy.hackthebox.com/achievement/badge/f3bd0f29-5247-11ee-acfc-bea50ffe6cb4)
+[<img src="https://github.com/kiro6/kiro6/assets/57776872/01a3f9ca-3dc9-4bc7-9014-e31ad8401606" alt="CBBH" width="200" height="200">](https://academy.hackthebox.com/achievement/badge/f3bd0f29-5247-11ee-acfc-bea50ffe6cb4)
 
