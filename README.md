@@ -4,7 +4,7 @@ Hello there, I'm Kyrillos Maged Fakhery, a CyberSecurity enthusiast, Bug Bounty 
 
 ## Education
 
-- Currently a CyberSecurity student at F.C.D.S, Alexandria University.
+- Currently a CyberSecurity student at F.C.D.S CyberSecurity Department , Alexandria University.
 
 ## Interests
 
