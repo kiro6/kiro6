@@ -25,6 +25,7 @@ I'm passionate about:
 
 - Linux
 - Web Security and Attacks
+- API Security and Attacks
 - Programming languages
 <p align="center">
   <img src="/images/Bash-Logo.png" width="100" height="100">
