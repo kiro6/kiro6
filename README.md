@@ -33,6 +33,7 @@ I'm passionate about:
   <img src="/images/Node.js_logo.png" width="100" height="100">
   <img src="/images/python-logo.png" width="100" height="100">
   <img src="/images/PHP-logo.png" width="100" height="100">
+  <img src="/images/nasm-assembly-lang.png" width="100" height="100">
 </p>
 
 
