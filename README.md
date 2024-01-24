@@ -28,7 +28,7 @@ I'm passionate about:
 - API Security and Attacks
 - Programming languages
 <p align="center">
-  <img src="/images/Bash-Logo.png" width="100" height="100">
+<a href="https://www.gnu.org/software/bash/"><img src="/images/Bash-Logo.png" width="100" height="100"></a>
   <img src="/images/Java-Logo.png" width="100" height="100">
   <img src="/images/Node.js_logo.png" width="100" height="100">
   <img src="/images/python-logo.png" width="100" height="100">
