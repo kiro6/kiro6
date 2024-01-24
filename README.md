@@ -29,8 +29,8 @@ I'm passionate about:
 - Programming languages
 <p align="center">
 <a href="https://www.gnu.org/software/bash/"><img src="/images/Bash-Logo.png" width="100" height="100"></a>
-  <img src="/images/Java-Logo.png" width="100" height="100">
-  <img src="/images/Node.js_logo.png" width="100" height="100">
+<a href="https://www.java.com/en/"> <img src="/images/Java-Logo.png" width="100" height="100"></a>
+<a href="https://nodejs.org/en">  <img src="/images/Node.js_logo.png" width="100" height="100"></a>
   <img src="/images/python-logo.png" width="100" height="100">
   <img src="/images/PHP-logo.png" width="100" height="100">
   <img src="/images/nasm-assembly-lang.png" width="100" height="100">
