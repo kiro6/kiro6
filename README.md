@@ -38,7 +38,7 @@ I'm passionate about:
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiro6&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiro6&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 ## Repositories 
 - [my pentration testing notes](https://github.com/kiro6/penetration-testing-notes)
