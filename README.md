@@ -37,6 +37,8 @@ I'm passionate about:
 </p>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krio6&show_icons=true&theme=radical)
+
 ## Repositories 
 - [my pentration testing notes](https://github.com/kiro6/penetration-testing-notes)
 - [writeups for challenegs and CTFs i solve](https://github.com/kiro6/writeups)
