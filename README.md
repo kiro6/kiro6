@@ -38,11 +38,11 @@ I'm passionate about:
 </p>
 
 <p align="center">
-<a href="https://www.gnu.org/software/bash/"><img src="/images/Github logo.png" width="100" height="100"></a>
-<a href="https://www.gnu.org/software/bash/"><img src="/images/metasploit-logo.jpeg" width="100" height="100"></a>
-<a href="https://www.gnu.org/software/bash/"><img src="/images/burpsuite-logo.png" width="100" height="100"></a>
-<a href="https://www.gnu.org/software/bash/"><img src="/images/postman-logo.png" width="100" height="100"></a>
-<a href="https://www.gnu.org/software/bash/"><img src="/images/zap-prox-logo.jpeg" width="100" height="100"></a>
+<a href="https://github.com/"><img src="/images/Github logo.png" width="100" height="100"></a>
+<a href="https://www.metasploit.com/"><img src="/images/metasploit-logo.jpeg" width="100" height="100"></a>
+<a href="https://portswigger.net/burp/"><img src="/images/burpsuite-logo.png" width="100" height="100"></a>
+<a href="https://www.postman.com/"><img src="/images/postman-logo.png" width="100" height="100"></a>
+<a href="https://www.zaproxy.org/"><img src="/images/zap-prox-logo.jpeg" width="100" height="100"></a>
 </p>
 
 ## Stats
