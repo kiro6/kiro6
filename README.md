@@ -23,10 +23,11 @@ I'm passionate about:
 
 ## Skills
 
-- Linux
-- Web Security and Attacks
-- API Security and Attacks
-- Programming languages
+- Operating Systems (Linux & Windows) 
+- Web Security
+- API Security 
+- Network Security
+- Programming languages and Tools
 <p align="center">
 <a href="https://www.gnu.org/software/bash/"><img src="/images/Bash-Logo.png" width="100" height="100"></a>
 <a href="https://www.java.com/en/"> <img src="/images/Java-Logo.png" width="100" height="100"></a>
@@ -34,6 +35,7 @@ I'm passionate about:
 <a href="https://www.python.org/">  <img src="/images/python-logo.png" width="100" height="100"></a>
 <a href="https://www.php.net/"> <img src="/images/PHP-logo.png" width="100" height="100"> </a>
 <a href="https://www.nasm.us/"> <img src="/images/nasm-assembly-lang.png" width="100" height="100"> </a>
+<a href="https://www.nasm.us/"> <img src="/images/Docker logo.jpeg" width="100" height="100"> </a>
 </p>
 
 ## Stats
