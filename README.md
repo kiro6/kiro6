@@ -35,7 +35,14 @@ I'm passionate about:
 <a href="https://www.python.org/">  <img src="/images/python-logo.png" width="100" height="100"></a>
 <a href="https://www.php.net/"> <img src="/images/PHP-logo.png" width="100" height="100"> </a>
 <a href="https://www.nasm.us/"> <img src="/images/nasm-assembly-lang.png" width="100" height="100"> </a>
-<a href="https://www.nasm.us/"> <img src="/images/Docker logo.jpeg" width="100" height="100"> </a>
+</p>
+
+<p align="center">
+<a href="https://www.gnu.org/software/bash/"><img src="/images/Github logo.png" width="100" height="100"></a>
+<a href="https://www.gnu.org/software/bash/"><img src="/images/metasploit-logo.jpeg" width="100" height="100"></a>
+<a href="https://www.gnu.org/software/bash/"><img src="/images/burpsuite-logo.png" width="100" height="100"></a>
+<a href="https://www.gnu.org/software/bash/"><img src="/images/postman-logo.png" width="100" height="100"></a>
+<a href="https://www.gnu.org/software/bash/"><img src="/images/zap-prox-logo.jpeg" width="100" height="100"></a>
 </p>
 
 ## Stats
