@@ -35,6 +35,7 @@ I'm passionate about:
 <a href="https://www.python.org/">  <img src="/images/python-logo.png" width="100" height="100"></a>
 <a href="https://www.php.net/"> <img src="/images/PHP-logo.png" width="100" height="100"> </a>
 <a href="https://www.nasm.us/"> <img src="/images/nasm-assembly-lang.png" width="100" height="100"> </a>
+<a href="https://go.dev/"> <img src="/images/Go logo.png" width="100" height="100"> </a>
 </p>
 
 <p align="center">
@@ -44,6 +45,7 @@ I'm passionate about:
 <a href="https://www.postman.com/"><img src="/images/postman-logo.png" width="100" height="100"></a>
 <a href="https://www.zaproxy.org/"><img src="/images/zap-prox-logo.jpeg" width="100" height="100"></a>
 <a href="https://x64dbg.com/"><img src="/images/x64dbg-logo.jpeg" width="100" height="100"></a>
+<a href="https://github.com/hugsy/gef"><img src="/images/GEF logo.jpeg" width="100" height="100"></a>
 </p>
 
 ## Stats
