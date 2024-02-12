@@ -1,6 +1,6 @@
 ## About Me
 
-Hello there, I'm Kyrillos Maged Fakhry, a CyberSecurity enthusiast, Bug Bounty Hunter, Web Penetration Tester, and CTF (Capture The Flag) player.
+Hello there, I'm Kyrillos Maged Fakhry, a CyberSecurity Engineer, Bug Bounty Hunter, Web Penetration Tester, and CTF (Capture The Flag) player.
 
 ## Education
 
