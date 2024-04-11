@@ -6,16 +6,6 @@ Hello there, I'm Kyrillos Maged Fakhry, a CyberSecurity Engineer, Bug Bounty Hun
 
 - Currently a CyberSecurity student at F.C.D.S CyberSecurity Department , Alexandria University.
 
-## Interests
-
-I'm passionate about:
-
-- Web Security
-- Cryptography
-- Network Security
-- Operating Systems
-- Binary Exploitation
-
 
 ## Certfications 
 [![CBBH](/images/CBBH.png)](https://academy.hackthebox.com/achievement/badge/f3bd0f29-5247-11ee-acfc-bea50ffe6cb4)
@@ -23,11 +13,12 @@ I'm passionate about:
 
 ## Skills
 
-- Operating Systems (Linux & Windows) 
+- Operating Systems Security (Linux & Windows) 
 - Web Security
 - API Security 
 - Network Security
 - Programming languages and Tools
+
 <p align="center">
 <a href="https://www.gnu.org/software/bash/"><img src="/images/Bash-Logo.png" width="100" height="100"></a>
 <a href="https://www.java.com/en/"> <img src="/images/Java-Logo.png" width="100" height="100"></a>
@@ -48,11 +39,7 @@ I'm passionate about:
 <a href="https://github.com/hugsy/gef"><img src="/images/GEF logo.jpeg" width="100" height="100"></a>
 </p>
 
-## Stats
+
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiro6&show_icons=true&theme=radical) -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=kiro6&theme=dark)](https://git.io/streak-stats) -->
-
-## Repositories 
-- [my pentration testing notes](https://github.com/kiro6/penetration-testing-notes)
-- [writeups for challenegs and CTFs i solve](https://github.com/kiro6/writeups)
