@@ -2,10 +2,10 @@
 
 Hello there, I'm Kyrillos Maged Fakhry, a CyberSecurity Engineer, Bug Bounty Hunter.
 
-## Education
+ <!-- ## Education  -->
 
-- Currently a CyberSecurity student at F.C.D.S CyberSecurity Department , Alexandria University.
-
+ <!-- - Currently a CyberSecurity student at F.C.D.S CyberSecurity Department , Alexandria University.  -->
+ 
 
 ## Certfications 
 [![CBBH](/images/CBBH.png)](https://academy.hackthebox.com/achievement/badge/f3bd0f29-5247-11ee-acfc-bea50ffe6cb4)
