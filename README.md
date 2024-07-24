@@ -21,6 +21,7 @@ Hello there, I'm Kyrillos Maged Fakhry, a CyberSecurity Engineer, Bug Bounty Hun
 - Web Pentration Testing
 - API Pentration Testing
 - Network Pentration Testing
+- Active Directory Penetration Testing
 - Programming languages and Tools
 
 <p align="center">
