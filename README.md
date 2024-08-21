@@ -6,9 +6,7 @@ Hello there, I'm Kyrillos Maged Fakhry, a CyberSecurity Engineer, Bug Bounty Hun
 
  <!-- - Currently a CyberSecurity student at F.C.D.S CyberSecurity Department , Alexandria University.  -->
  
-<p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkiro6%2Fkiro6&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Number+of+Visits&edge_flat=false"/></a>
-</p>
+
 
 ## Certfications 
  <!-- [![CBBH](/images/CBBH.png)](https://academy.hackthebox.com/achievement/badge/f3bd0f29-5247-11ee-acfc-bea50ffe6cb4)
@@ -51,7 +49,9 @@ Hello there, I'm Kyrillos Maged Fakhry, a CyberSecurity Engineer, Bug Bounty Hun
 <br>
 
 
-
+<p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkiro6%2Fkiro6&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Number+of+Visits&edge_flat=false"/></a>
+</p>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiro6&show_icons=true&theme=radical) -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=kiro6&theme=dark)](https://git.io/streak-stats) -->
