@@ -1,6 +1,8 @@
 ## About Me
 
-Hello there, I'm Kyrillos Maged Fakhry, a CyberSecurity Engineer, Bug Bounty Hunter.
+Hello there, I'm Kyrillos Maged Fakhry. SWE and Cybersecurity Enthusiast
+
+
 
  <!-- ## Education  -->
 
@@ -18,14 +20,14 @@ Hello there, I'm Kyrillos Maged Fakhry, a CyberSecurity Engineer, Bug Bounty Hun
  <a href="https://drive.google.com/file/d/1XbXuFTSL05dVqPQTaMzuyKw-TZ42xreg/view?usp=drive_link"><img src="/images/zephyr.svg" width="200" height="150"></a>
 </p>
 
-## Skills
 
+<!--
 - Web Pentration Testing
 - API Pentration Testing
 - Network Pentration Testing
 - Active Directory Penetration Testing
 - Programming languages and Tools
-
+<!--
 <p align="center">
 <a href="https://www.gnu.org/software/bash/"><img src="/images/Bash-Logo.png" width="100" height="100"></a>
 <a href="https://www.java.com/en/"> <img src="/images/Java-Logo.png" width="100" height="100"></a>
