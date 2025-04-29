@@ -21,7 +21,7 @@ Hello there, I'm Kyrillos Maged Fakhry. SWE and Cybersecurity Enthusiast
 **Tools:**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,docker,github,graphql,linux,azure&perline=9" />
+    <img src="https://skillicons.dev/icons?i=postman,docker,github,graphql,linux,azure,androidstudio,vscode&perline=9" />
   </a>
 </p>
 
