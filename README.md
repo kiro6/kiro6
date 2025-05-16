@@ -3,7 +3,7 @@
 Hello there, I'm Kyrillos Maged Fakhry. SWE and Cybersecurity Enthusiast
 
 ## Education
-B.C in Computers and Data Science Alexandria University 
+B.Sc in Computers and Data Science Alexandria University 
 
 ## Skills
 **programming languages and framworks:**
