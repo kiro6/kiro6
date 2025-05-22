@@ -39,4 +39,6 @@ B.Sc in Computers and Data Science Alexandria University
  <a href="https://drive.google.com/file/d/1XbXuFTSL05dVqPQTaMzuyKw-TZ42xreg/view?usp=drive_link"><img src="/images/zephyr.svg" width="200" height="150"></a>
 </p>
 
-
+## Links
+- [Leetcode Profile](https://leetcode.com/u/kiro6/)
+- [HTB Profile](https://app.hackthebox.com/profile/1525087)
