@@ -9,7 +9,7 @@ B.Sc in Computers and Data Science Alexandria University
 **programming languages and framworks:**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,go,java,php,cpp,nodejs,python,r,flask,express,react&perline=9" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,go,java,php,cpp,nodejs,python,r&perline=9" />
   </a>
 </p>
 
