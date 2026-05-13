@@ -1,6 +1,6 @@
 ## About Me
 
-Hello there, I'm Kyrillos Maged Fakhry. SWE and Cybersecurity Enthusiast
+Hello there, I'm Kyrillos. SWE and Cybersecurity Enthusiast
 
 ## Education
 B.Sc in Computers and Data Science Alexandria University 
