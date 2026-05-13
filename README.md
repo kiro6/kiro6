@@ -6,7 +6,7 @@ Hello there, I'm Kyrillos Maged Fakhry. SWE and Cybersecurity Enthusiast
 B.Sc in Computers and Data Science Alexandria University 
 
 ## Skills
-**programming languages and framworks:**
+**programming languages:**
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,go,java,php,cpp,nodejs,python&perline=9" />
