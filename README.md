@@ -5,29 +5,6 @@ Hello there, I'm Kyrillos. SWE and Cybersecurity Enthusiast
 ## Education
 B.Sc in Computers and Data Science Alexandria University 
 
-## Skills
-**programming languages:**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,go,java,php,cpp,nodejs,python&perline=9" />
-  </a>
-</p>
-
-**Databases:**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&perline=9" />
-  </a>
-</p>
-
-**Tools:**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,docker,github,graphql,linux,azure,androidstudio,vscode&perline=9" />
-  </a>
-</p>
-
-
 
 ## Certfications 
 <p align="center">
