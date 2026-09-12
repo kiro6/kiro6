@@ -14,5 +14,5 @@ B.Sc in Computers and Data Science Alexandria University
 </p>
 
 ## Links
-- <img src="/Assets/leetcode.png" alt="LeetCode" width="16"> [LeetCode Profile](https://leetcode.com/u/kiro6/) 
-- <img src="/Assets/htb.jpeg" alt="LeetCode" width="17" height="17"> [HTB Profile](https://app.hackthebox.com/users/1525087)
+<img src="/Assets/leetcode.png" alt="LeetCode" width="16" height="15"> [LeetCode Profile](https://leetcode.com/u/kiro6/) <br>
+<img src="/Assets/htb.jpeg" alt="LeetCode" width="15" height="15"> [HTB Profile](https://app.hackthebox.com/users/1525087)
